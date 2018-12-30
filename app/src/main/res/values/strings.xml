@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SHSRegistration</string>
+    <string-array name="Tracks">
+        <item>TRACKS</item>
+        <item>ICT</item>
+        <item>ABM</item>
+        <item>CULARTS</item>
+        <item>TOURISM</item>
+    </string-array>
+</resources>
